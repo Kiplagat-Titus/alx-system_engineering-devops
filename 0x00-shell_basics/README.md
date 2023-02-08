@@ -21,7 +21,11 @@ cd (~)/ cd | Navigate to home
  ls -a | List directory in long format
  ls -ld dir | Liist information about directory name instead of contents
 ls -a | list files including hidden
+
+
 _ls -f_: is a special file listing command that needs symbol to indicate type
+
+
 | symbol | symbol name|
 | :---: | ---|
 @ | symbolic link
